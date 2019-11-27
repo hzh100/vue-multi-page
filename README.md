@@ -1,6 +1,5 @@
-# test-vue
-
 # vue-multi-page
+
 ## vue 多页面配置模板案例
 
 pages 目录下
